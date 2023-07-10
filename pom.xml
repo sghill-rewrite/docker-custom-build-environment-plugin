@@ -3,7 +3,8 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>2.21</version>
+    <version>4.51</version>
+    <relativePath/>
   </parent>
 
   <groupId>com.cloudbees.jenkins.plugins</groupId>
